@@ -1,5 +1,7 @@
 package Quiz;
 
+import java.util.Scanner;
+
 public class Empleado extends Persona {
 
 	String salario;
@@ -13,9 +15,13 @@ public class Empleado extends Persona {
 		
 	}
 
+	//metodo mostrar informacion()
 	@Override
 	public String toString() {
 		return "Empleado [salario=" + salario + ", cargo=" + cargo + ", nombre=" + nombre + ", edad=" + edad + "]";
 	}
 
+	
+	
+	
 }
