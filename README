@@ -1,2 +1,2 @@
 El archivo corre las preguntas por medio de la funcion responderpreguntas() creada en la clase persona.
-los metodos mostrarinformacion() fueron cambiados por tostring(), que tienen la misma funcion.
+Los metodos mostrarinformacion() fueron cambiados por tostring(), que tienen la misma funcion.
